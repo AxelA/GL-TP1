@@ -1,1 +1,1 @@
-echo ABiemar the glorious Peasant 
+echo ABiemar the Peasant 
